@@ -1,4 +1,4 @@
-## ML-Model-Flask-Deployment
+## Salary Prediction ML-Model-Flask-Deployment
 This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
 
 ### Prerequisites
@@ -19,5 +19,5 @@ python model.py
 This would create a serialized version of our model into a file model.pkl
 
 2. Run app.py using below command to start Flask API
-```
+
 
